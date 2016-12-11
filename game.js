@@ -769,6 +769,7 @@ GridNode = function () {
       callback.call(sprite, ref);
     }
   };
+  
 
   this.isEmpty = function (collidables) {
     var empty = true;
